@@ -5,7 +5,7 @@ __email__ = 'jaer@nmbu.no'
 
 
 def test():
-    return 'test'
+    return print('test')
 
 
 
